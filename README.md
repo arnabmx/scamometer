@@ -4,7 +4,7 @@
 
 **The World's Most Advanced Browser-Based Threat Detection System**
 
-[![Version](https://img.shields.io/badge/version-4.0.0-blue.svg)](https://github.com/NoCodeNode/AIGC)
+[![Version](https://img.shields.io/badge/version-4.0.0-blue.svg)](https://github.com/arnabmx/scamometer)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![AI Powered](https://img.shields.io/badge/AI-Dual%20Stack-orange.svg)]()
 [![Performance](https://img.shields.io/badge/speed-50%25%20faster-brightgreen.svg)]()
@@ -506,8 +506,8 @@ Optimize for your use case:
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/NoCodeNode/AIGC.git
-   cd AIGC
+   git clone https://github.com/arnabmx/scamometer.git
+   cd scamometer
    ```
 
 2. **Load Extension**
@@ -886,8 +886,8 @@ You are free to:
 ### Getting Help
 
 - 📖 **Documentation**: Check guides in the repository
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/NoCodeNode/AIGC/issues)
-- 💡 **Feature Requests**: [Submit enhancement](https://github.com/NoCodeNode/AIGC/issues)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/arnabmx/scamometer/issues)
+- 💡 **Feature Requests**: [Submit enhancement](https://github.com/arnabmx/scamometer/issues)
 - 📧 **Email**: hello@arnabmandal.com
 
 ### Known Limitations
@@ -907,9 +907,9 @@ If you find Scamometer useful, please consider giving it a star! ⭐
 
 **Built with ❤️ for a safer internet**
 
-[![Star History](https://img.shields.io/github/stars/NoCodeNode/AIGC?style=social)](https://github.com/NoCodeNode/AIGC)
+[![Star History](https://img.shields.io/github/stars/arnabmx/scamometer?style=social)](https://github.com/arnabmx/scamometer)
 
-[Report Bug](https://github.com/NoCodeNode/AIGC/issues) • [Request Feature](https://github.com/NoCodeNode/AIGC/issues) • [Documentation](https://github.com/NoCodeNode/AIGC)
+[Report Bug](https://github.com/arnabmx/scamometer/issues) • [Request Feature](https://github.com/arnabmx/scamometer/issues) • [Documentation](https://github.com/arnabmx/scamometer)
 
 ---
 
